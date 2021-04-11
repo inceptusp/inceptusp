@@ -9,6 +9,8 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
 
+Almost all my contributions are on private repos, sorry... 😕
+
 <!--
 **inceptusp/inceptusp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
